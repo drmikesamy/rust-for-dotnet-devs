@@ -52,7 +52,7 @@ fn main() {
 }
 ```
 
-The `for` loop over an iterable essentially gets desuraged to the following:
+The `for` loop over an iterable essentially gets desugared to the following:
 
 ```rust
 use std::fmt::Write;
